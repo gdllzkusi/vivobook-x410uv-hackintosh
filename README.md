@@ -33,6 +33,6 @@ Create an ESP partition ≥ 512M in the notebook hard disk partition in the form
 3. 安装完成系统之后，运行GenSMBIOS.command 生成SN、UUID相关信息，使用opencore configurator 打开EFI/OC/config.plist ，在Platforminfo-datahub-generic-PlatforminfoNVRAM页面，填写下图选项框信息  After installing the system, run GenSMBIOS.command Generate Sn, UUID related information 
 Using OpenCORE configurator to open EFI / OC/ config.plist On the platforminfo datahub generic platforminfo NVRAM page, fill in the following box information
 
-  ![GenSMBIOS](./resource/3.png)   
+  ![GenSMBIOS](./resource/3.jpg)   
   
-
+  4. 经网友测试，同样适用于zenbook ux310/RX310/UX410/U4000UQK。
