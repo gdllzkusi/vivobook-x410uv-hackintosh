@@ -11,8 +11,12 @@
 |网络适配器|Broadcom 802.11ac Network Adapter (替换BCM94360CS2)|
 |图形处理器(GPU)|[FAKE] nVIDIA GeForce 920MX (Asus)|
 |显示器属性|BOE0720 (替换京东方4K显示器)|
+
+
   ![GenSMBIOS](./resource/1.png)   
   ![GenSMBIOS](./resource/2.png)   
+  
+  
 1. BIOS设置 BIOS Settings 
 * 更新bios版本至最新版 Update to latest BIOS version
 * 设置DVMT 到64M Set DVMT to 64M
